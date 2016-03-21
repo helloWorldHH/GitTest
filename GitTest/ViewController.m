@@ -19,6 +19,8 @@
     // Do any additional setup after loading the view, typically from a nib.
     
     NSLog(@"hello world");
+    
+    NSLog(@"由于前一次不行，于是乎再试一次");
 }
 
 - (void)didReceiveMemoryWarning {
